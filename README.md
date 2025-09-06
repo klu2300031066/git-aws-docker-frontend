@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# docker-git-frontend" 
 "# dockergit-frontend" 
 "# dockergit-frontend" 
+"# dockergit-frontend" 
