@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 "# dockergit-frontend" 
 "# dockergit-frontend" 
 "# git-aws-docker-frontend" 
+"# git-aws-docker-frontend" 
